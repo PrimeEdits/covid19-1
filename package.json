@@ -3,9 +3,9 @@
     "version": "0.1.0",
     "private": true,
     "engines": {
-    "node": ">=12.13.1",
-    "npm": ">=6.12.1",
-    "yarn": ">=1.22.4"
+    "node": "12.x",
+    "npm": "6.12.1",
+    "yarn": "1.22.4"
   },
     "dependencies": {
         "@ctrl/tinycolor": "^2.6.0",
