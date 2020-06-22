@@ -1,1 +1,1 @@
-worker:  npm install && npm run build && yarn global add serve && serve -s build
+worker:  yarn global add serve && serve -s build
